@@ -61,14 +61,19 @@ article{
 
 #arte {
     background-image: url("/sorolla.jpg");
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 740px;
 }
 
 #arte-hero {
     background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+#moda-hero {
+    margin: 40px auto;
 }
 
 .volver {
@@ -76,7 +81,7 @@ article{
 }
 
 .scroll-down{
-    width: 70%;
+    width: 50%;
     text-align: center;
     margin: auto;
 }
@@ -84,4 +89,8 @@ article{
     margin-top: 10px;
 }
 
+.youtube {
+    padding: 30px;
+    text-align: center;
+}
 
